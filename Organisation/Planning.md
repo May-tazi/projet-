@@ -1,23 +1,22 @@
 Planning des 8 séances : 
 
 Seance 1 : 
-- maquette du projet 
 - organisation du github 
 - materiels 
+- détail des dimensions
 
 Seance 2 : 
-- commande du matériel
-- mise en place des fonctions
+- s'occuper de la fonction du monnayeur
+- s'occuper de la création des roues et les faire toruner
 
 Seance 3 : 
-- s'occuper du monnayeur 
-- s'occuper de la fonction capteur
+- s'occuper des fonctions liées au roue(compter le nombre de rotation...)
 
-Seance 4 : 
-- s'occuper de faire tourner les roues (avec le levier)
+Seance 4 :
+- commencer la construction de la boite
+- s'occuper de la fonction qui rend l'argent 
 
 Seance 5 : 
-- s'occuper du cas où nous gagnons / perdons
 - finalisation des autres fonctions
 
 Seance 6 : 
