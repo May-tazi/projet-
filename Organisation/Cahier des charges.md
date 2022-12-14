@@ -8,9 +8,10 @@ L'objectif de ce projet:
 - s'approprier des connaissances Arduino
 - favoriser le travail en équipe
 - s'organiser dans la gestion des taches et du matériel
-- respecter un délais 
 - présenter son projet
 - savoir s'adapter face aux problèmes rencontrés
+- respecter un délais 
+
 
 
 2) Description du projet:
@@ -47,9 +48,12 @@ Matériel requis:
 - câble micro usb
 
 Fonctionnalités: 
-- 
-- commande la rotation des roues lorque nous appuyons sur le bouton
-- vérifier avec les capteurs lorque les 3 mêmes couleurs sont alignées
-- compte piece à l'aide du monnayeur 
-- déclanche des leds quand nous gagnons 
+- commande du monnnayeur (détecte lorsque nous mettons une pièce)
+- commande pour la rotation des roues:
+     * initialise les roues (avec le capteur)
+     * compte le nombre de rotation
+     * détecte lorsque nous appuyons sur le boutons
+     * envoie une information si les motifs sont alignés
+     * vérifie que nous avons reçu un jeton
+- rend des pièces lorsque nous gagnons 
 
