@@ -47,7 +47,8 @@ Matériel requis:
 - câble micro usb
 
 Fonctionnalités: 
-- commande la rotation des roues avec le levier
+- 
+- commande la rotation des roues lorque nous appuyons sur le bouton
 - vérifier avec les capteurs lorque les 3 mêmes couleurs sont alignées
 - compte piece à l'aide du monnayeur 
 - déclanche des leds quand nous gagnons 
