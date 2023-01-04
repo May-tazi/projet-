@@ -7,7 +7,7 @@ Seance 1 :
 
 Seance 2 : 
 - s'occuper de la fonction du monnayeur
-- s'occuper de la création des roues et les faire toruner
+- s'occuper de la création des roues et les faire tourner
 
 Seance 3 : 
 - s'occuper des fonctions liées au roue(compter le nombre de rotation...)
