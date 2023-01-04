@@ -14,4 +14,4 @@ Les dimensions de cette équerres sont les suivantes:
 ![WhatsApp Image 2023-01-04 at 18 30 04](https://user-images.githubusercontent.com/119940151/210615158-91b0050e-1ef6-4d2e-b4c1-8c07a88257fc.jpeg)
 Nous avons pris en compte des trous pour mettre des vis dasn l'équerre afin de la fixer au socle.
 ![image](https://user-images.githubusercontent.com/119940151/210615632-26e83154-eaba-4a32-948e-85a3110865f3.png)
-J'ai reflechi à comment placer les capteur, les leds  et le sckotch noir afin d'initialiser la roue et des meusurer avec precision les rotations. (voir les videos)
+J'ai reflechi à comment placer les capteur, les leds  et le sckotch noir afin d'initialiser la roue et des meusurer avec precision les rotations. (voir les videos: https://youtube.com/shorts/KpsiDmUDK2c?feature=share et https://youtube.com/shorts/4W6VaF1P170?feature=share)
