@@ -20,7 +20,7 @@ J'ai reflechi à comment placer les capteurs, les leds  et le sckotch noir afin 
 
 Séance 3 du 11 janvier 2023:
 
-Ma séance a été divisée en deux parties. Durant la première partie, je me suis concentrée sur le capteur, j'ai reglé sa précision pour qu'il puisse détecter le moment où la roue fait un tour complet (cette partie n'est pas encore totalement terminée). J'ai changé la position du capteur pour qu'il capte un point d'origine, au niveau du sckotch noir, sur la face extérieure de la roue comme sur la photo ci-dessous.
+Ma séance a été divisée en deux parties. Durant la première partie, je me suis concentrée sur le capteur, j'ai reglé sa précision pour qu'il puisse détecter le moment où la roue fait un tour complet (cette partie n'est pas encore totalement terminée). J'ai changé la position du capteur pour qu'il capte un point d'origine, au niveau du scotch noir, sur la face extérieure de la roue comme sur la photo ci-dessous.
 ![IMG-9374](https://user-images.githubusercontent.com/119940151/211874066-65351159-db79-4bae-a3e1-ce4ed914d1c7.jpg)
 Dans une seconde partie avec ma binôme nous avons profité des outils à notre disposition pour pouvoir fixer les roues aux équerres et les équerres au socle. Ce n'est pas le montage definitif mais c'est avec cette disposition que nous allons espacer les roues.
 ![0502b98d-408d-4118-b525-b9df9910b219](https://user-images.githubusercontent.com/119940151/211877055-9e89e108-3ac6-492e-bd19-2f3b0c994628.JPG)
