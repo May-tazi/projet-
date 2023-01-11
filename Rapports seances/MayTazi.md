@@ -24,4 +24,4 @@ Ma séance a été divisée en deux parties. Durant la première partie, je me s
 ![IMG-9374](https://user-images.githubusercontent.com/119940151/211874066-65351159-db79-4bae-a3e1-ce4ed914d1c7.jpg)
 Dans une seconde partie avec ma binôme nous avons profité des outils à notre disposition pour pouvoir fixer les roues aux équerres et les équerres au socle. Ce n'est pas le montage definitif mais c'est avec cette disposition que nous allons espacer les roues.
 ![0502b98d-408d-4118-b525-b9df9910b219](https://user-images.githubusercontent.com/119940151/211877055-9e89e108-3ac6-492e-bd19-2f3b0c994628.JPG)
-Pour finir j'ai pu faire tourner simultanément les 3 roues sur le support. Comme sur la video suivante: 
+Pour finir j'ai pu faire tourner simultanément les 3 roues sur le support. Comme sur la video suivante: https://youtube.com/shorts/H7g4kApOgP4?feature=share 
