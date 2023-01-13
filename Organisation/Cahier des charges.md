@@ -1,7 +1,7 @@
 1) Contexte:
 
 Dans le cadre de notre année en PEIP2, nous avons à réaliser un projet Arduino (au choix).
-Après réflexion, nous avons finalement décidé de réaliser une machine à sous, semblables à celles des jeux de casaino.
+Après réflexion, nous avons finalement décidé de réaliser une machine à sous, semblable à celles des jeux de casino.
 Il nous est donc impératif de faire un cahier des charges.
 
 L'objectif de ce projet:
