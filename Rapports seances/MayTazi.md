@@ -25,3 +25,9 @@ Ma séance a été divisée en deux parties. Durant la première partie, je me s
 Dans une seconde partie avec ma binôme nous avons profité des outils à notre disposition pour pouvoir fixer les roues aux équerres et les équerres au socle. Ce n'est pas le montage definitif mais c'est avec cette disposition que nous allons espacer les roues.
 ![0502b98d-408d-4118-b525-b9df9910b219](https://user-images.githubusercontent.com/119940151/211877055-9e89e108-3ac6-492e-bd19-2f3b0c994628.JPG)
 Pour finir j'ai pu faire tourner simultanément les 3 roues sur le support. Comme sur la video suivante: https://youtube.com/shorts/H7g4kApOgP4?feature=share 
+
+Séance 4 du 18 janvier 2023:
+Après avoir échangé avec nos professeurs, on a décidé d'apporter quelques changement à notre idée initiale pour pouvoir se repérer sur la roue. En effet, deux problèmes se posent à nous, d'une part il ne faut pas que la roue s'arrete entre deux motifs. D'autre part, il faut savoir sur quel motif la roue s'est arrêtée.
+On a alors décidé qu'il y aurait deux capteurs pour chaque roue. L'un sera à l'extérieur et à l'aide d'un repere (scotch noir) capte à chaque fois que l'on passe devant un motif. J'ai créer cette fonction qui compte devant combien de motifs nous sommes passé. 
+Pour pouvoir m'approprier le fonctionnement j'ai aussi créé un programme (roues_avec_capteur1) qui s'arrete quand nous sommes passés devant 9 motifs par exemple. Le prolème de s'arreter entre deux motifs est alors résolu.
+Le deuxième capteur est positionné à l'intérieur, il permet avec cette fois-ci, avec une marque à l'interieur des roues, de repérer quand nous avons fait un tour complet. Dans ce même programme on compte le nombre de tour que l'on a fait. Il faut maintenant que je lis ses deux informations pour pouvoir connaitre sur quelle motif nous nous sommes stoppé.
