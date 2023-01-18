@@ -27,6 +27,7 @@ Dans une seconde partie avec ma binôme nous avons profité des outils à notre 
 Pour finir j'ai pu faire tourner simultanément les 3 roues sur le support. Comme sur la video suivante: https://youtube.com/shorts/H7g4kApOgP4?feature=share 
 
 Séance 4 du 18 janvier 2023:
+
 Après avoir échangé avec nos professeurs, on a décidé d'apporter quelques changement à notre idée initiale pour pouvoir se repérer sur la roue. En effet, deux problèmes se posent à nous, d'une part il ne faut pas que la roue s'arrete entre deux motifs. D'autre part, il faut savoir sur quel motif la roue s'est arrêtée.
 On a alors décidé qu'il y aurait deux capteurs pour chaque roue. L'un sera à l'extérieur et à l'aide d'un repere (scotch noir) capte à chaque fois que l'on passe devant un motif. J'ai créer cette fonction qui compte devant combien de motifs nous sommes passé. 
 Pour pouvoir m'approprier le fonctionnement j'ai aussi créé un programme (roues_avec_capteur1) qui s'arrete quand nous sommes passés devant 9 motifs par exemple. Le prolème de s'arreter entre deux motifs est alors résolu.
