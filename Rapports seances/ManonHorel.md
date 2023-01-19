@@ -21,3 +21,10 @@ Durant cette séance je me suis premièrement occupée de refaire un plan 3d de 
 En deuxième partie de séance, nous avons avec ma binôme, fixés les 3 portants qui tiendront les roues et nous avons fixé les servo moteurs à l'interieur de celles-ci. 
 En fin de séance, nous avons pu voir les 3 roues fonctionnées. 
 Voir ici, la vidéo de fin de séance: https://youtube.com/shorts/H7g4kApOgP4?feature=share
+
+Séance 4 du 18 janvier 2023: 
+
+Pendant cette séance, nous avons d'abord eu notre oral pour présenter notre projet, ça nous a permit de pouvoir échanger avec les professeurs et de nous rendre compte que nous avions des modifications à faire notamment le fait d'utiliser désormais deux capteurs dans les roues. J'ai ensuite pris toutes les mesures qui nous permettront de créer notre boîte qui contiendra les roues, le monnayeur, et tout ce qui est en rapport avec les cablâges. Après, j'ai commencé à modéliser en 3D sur oneShape : <img width="589" alt="image" src="https://user-images.githubusercontent.com/119940151/213480298-aa8ffc69-97d7-470b-b58a-6937aead90fe.png">
+
+Nous avons donc, pour un soucis d'optimisation, décidé de placer le trou qui permettra de donner l'argent au joueur quand il gagne, sur le côté gauche. 
+
