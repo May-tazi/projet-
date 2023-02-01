@@ -32,3 +32,11 @@ Nous avons fixé les moteurs aux équerres à l'aide de riselans. Après avoir �
 On a alors décidé qu'il y aurait deux capteurs pour chaque roue. L'un est à l'extérieur et à l'aide d'un repère (scotch noir), il capte à chaque fois que l'on passe devant un motif. J'ai créé cette fonction qui compte le nombre de motifs passés. 
 Pour pouvoir m'approprier le fonctionnement j'ai aussi créé un programme (roues_avec_capteur1) qui s'arrête quand nous sommes passés devant 9 motifs par exemple. Le prolème de s'arrêter entre deux motifs est alors résolu.
 Le deuxième capteur est positionné à l'intérieur, il permet cette fois-ci, avec une marque à l'interieur des roues, de repérer quand la roue fait un tour complet. Dans ce même programme on compte le nombre de tour que l'on a fait. Il faut maintenant que je lie ces deux informations pour pouvoir connaître sur quel motif nous nous sommes stoppés.
+
+Séance 5 du 1 février 2023:
+
+En amont de la séance j'avais travaillé sur le programme roues_avec_capteur1 (roues_avec_capteur1_version2), mais durant le cours je me concentrer sur la construction. Au cours de nos essaies on s'est rendu compte que les roues ne tournaient pas droit. Elles n'étaient pas voilés mais cela était du à un écart entre le moteur et la roue. On a alors du polir une partie du moteur pour qu'il puisse se poser complétement à plat sur la roue, puis on du fixer le moteur à la roue en perçant et vissant 4 vis, 4 boulons, 8 rondelles, pour chaque roue.
+J'ai pris les mesures extacte pour savoir où fixer les capteurs. Puis on a percer les équerres pour pouvoir fixer les capteurs définitivement. Afin d'éviter les problèmes de conduction nous avons mis du plastique entre l'équerres et le capteur. On a alors fixé à nouveau fixé la roue avec un serre flex. On a positionné le scotch noir au niveau de chaque motif pour que le capteur puisse receuillir l'information.
+Durant cette séance une complication s'est produite puisque la roue (imprimée en 3D) s'est cassée, donc on du essayer de la refixer à l'aide du pistolet à colle pour pouvoir continuer le projet.
+
+
