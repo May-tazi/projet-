@@ -28,3 +28,7 @@ Pendant cette séance, nous avons d'abord eu notre oral pour présenter notre pr
 
 Nous avons donc, pour un soucis d'optimisation, décidé de placer le trou qui permettra de donner l'argent au joueur quand il gagne, sur le côté gauche. 
 
+Séance 5 du 01 février 2023: 
+
+Durant cette séance, nous avons choisi la taille exacte de la boîte qui serait de 27.5x37.5 cm, sans compter l'épaisseur. Pour réaliser cette boîte, j'utilise le logiciel inkscape qui permet de modéliser des boîtes en bois. En s'aidant du site makerCase, je rentre toutes les mesures et j'obtiens le patron de la boîte. Pour cette dernière, nous avons décidé de créer une boîte avec une ouverture qui permettra de faciliter les branchements et les problèmes qu'il pourrait y avoir. 
+
