@@ -40,3 +40,18 @@ J'ai pris les mesures extactes pour savoir où fixer les capteurs. Puis on a per
 Durant cette séance une complication s'est produite puisque la roue (imprimée en 3D) s'est cassée, donc on a essayer de la refixer à l'aide du pistolet à colle pour pouvoir continuer le projet.
 
 
+Séance 6 du 8 février 2023:
+
+J'ai avancé sur la création du programme du jeu. Maintenant que les capteurs et une roues sont bien fixés, je peut effectuer des essais. 
+![WhatsApp Image 2023-02-08 at 19 26 27](https://user-images.githubusercontent.com/119940151/217624841-1e67b4ed-a17d-4012-b785-f12be00f2542.jpeg)
+J'ai cherché à améliorer le programme qui s'occupe des roues. Initialement j'utilisais la fonction a fonction random() qui permet de renvoyer un nombre pseudo-aléatoire dans l’intervalle spécifié par les valeurs min et max. En effet, elle me renvoyait alors tout le temps le même nombre, ce qui renverrais toujours le même schéma de jeu puisque l'on tomberait toujours sur le même motif. J'ai alors ajouté un générateur de nombres pseudo-aléatoires initialisé par la fonction randomSeed(analogRead(A1)). Elle s'initialise à partir d’une valeur aléatoire due au « bruit » sur le port. Désormais, nous ne pouvons pas savoir à l'avance sur quel motif la roue va s'arrêter.
+J'ai créée le programme de façon à que dès qu'on le lance on sait sur quel motif la roue va s'arreter en utilisant un numéro aléatoire. On fait alors ce nombre modulo 7 (qui correspond au nombre de motif), puis on utilise un break pour séparer les cas et savoir sur quel motif la roue va s'arreter. Par la suite cela sera très utile pour savoir si les 3 motifs sont alignés.
+Le programme des roues repère le motifs sur lequel on se trouve en divisant par le nombre de motif le nombre de passage devant un motif.
+Je rencontrais un problème pour arrêter totalemnt les roues, j'ai alors utilisé la fonction myservo.detach() quand je le programme dot mettre les roues à l'arrêt.
+J'ai créé une fonction roue avec ce programme pour pouvoir l'appeler dans la fonction loop et que le programme soit structurer. 
+Par la suite, j'ai pu ajouter la détection d'un bouton poussoir. Lorsque nous appuyons dessus les roues se tournent (la fonction roue se lance) et les roues s'arretent aléatoirement. 
+En m'inspirant du programme compte pièce créé par Manon, j'ai ajouté une fonction similaire au programme. Le but est de ne pouvoir lancer la partie et si on appuie sur le bouton jouer uniquement si on a introduit à la machineune pièce. Cette fonctionalité n'est pas encore terminée. 
+
+
+
+
