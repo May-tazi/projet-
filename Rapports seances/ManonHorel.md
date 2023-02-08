@@ -34,4 +34,13 @@ Durant cette séance, nous avons choisi la taille exacte de la boîte qui serait
 
 Séance 6 du 08 février 2023: 
 
-Durant cette séance, 
+Durant cette séance, j'ai fini de prendre les mesures et de de les reporter sur Inkscape. Finalement, pour conceptualiser la boite j'ai du utiliser le logiciel boxes.py qui crée des boites à l'aide des dimensions. Ensuite, j'ai du ajouter les trous en plus sur le patron de la boite pour finaliser la modélisation. 
+comme ci-dessous: 
+<img width="782" alt="image" src="https://user-images.githubusercontent.com/119940151/217517410-8d152d4c-428b-4a27-9657-f3365d76faac.png">
+Ensuite, je suis allée à la découpeuse laser pour lancer l'execution, qui a d'ailleurs pris pas mal de temps. 
+voir cette vidéo : https://www.youtube.com/shorts/wfV_uO0uWmw
+Et enfin j'ai du assembler la boite avec de la colle à bois, cette étape était un peu compliqué mais tout a tenu. Je n'ai pas encore fixé l'arrière car nous aurons toute l'installation à fixer à l'intérieur, comme les roues, le cablâge etc. 
+voir cette vidéo pour le résultat final : 
+
+
+
