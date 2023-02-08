@@ -34,7 +34,7 @@ Durant cette séance, nous avons choisi la taille exacte de la boîte qui serait
 
 Séance 6 du 08 février 2023: 
 
-Durant cette séance, j'ai fini de prendre les mesures et de de les reporter sur Inkscape. Finalement, pour conceptualiser la boite j'ai du utiliser le logiciel boxes.py qui crée des boites à l'aide des dimensions. Ensuite, j'ai du ajouter les trous en plus sur le patron de la boite pour finaliser la modélisation. 
+Durant cette séance, j'ai fini de prendre les mesures et de les reporter sur Inkscape. Finalement, pour conceptualiser la boite j'ai du utiliser le logiciel boxes.py qui crée des boites à l'aide des dimensions. Ensuite, j'ai du ajouter les trous en plus sur le patron de la boite pour finaliser la modélisation. 
 comme ci-dessous: 
 <img width="782" alt="image" src="https://user-images.githubusercontent.com/119940151/217517410-8d152d4c-428b-4a27-9657-f3365d76faac.png">
 
