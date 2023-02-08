@@ -32,3 +32,6 @@ Séance 5 du 01 février 2023:
 
 Durant cette séance, nous avons choisi la taille exacte de la boîte qui serait de 27.5x37.5 cm, sans compter l'épaisseur. Pour réaliser cette boîte, j'utilise le logiciel inkscape qui permet de modéliser des boîtes en bois. En s'aidant du site makerCase, je rentre toutes les mesures et j'obtiens le patron de la boîte. Pour cette dernière, nous avons décidé de créer une boîte avec une ouverture qui permettra de faciliter les branchements et les problèmes qu'il pourrait y avoir. J'ai ensuite du créer les trous sur le patron qui permettront de recevoir l'argent et de voir les roues trounées. 
 
+Séance 6 du 08 février 2023: 
+
+Durant cette séance, 
