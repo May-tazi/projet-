@@ -49,7 +49,7 @@ J'ai créée le programme de façon à que dès qu'on le lance on sait sur quel 
 Le programme des roues repère le motifs sur lequel on se trouve en divisant par le nombre de motif le nombre de passage devant un motif.
 Je rencontrais un problème pour arrêter totalemnt les roues, j'ai alors utilisé la fonction myservo.detach() quand je le programme dot mettre les roues à l'arrêt.
 J'ai créé une fonction roue avec ce programme pour pouvoir l'appeler dans la fonction loop et que le programme soit structurer. 
-Par la suite, j'ai pu ajouter la détection d'un bouton poussoir. Lorsque nous appuyons dessus les roues se tournent (la fonction roue se lance) et les roues s'arretent aléatoirement. 
+Par la suite, j'ai pu ajouter un bouton poussoir. Lorsque nous appuyons dessus les roues tournent (la fonction roue se lance) et les roues s'arretent aléatoirement. (voir vidéo: https://youtube.com/shorts/zzfbXRdjAug?feature=share )
 En m'inspirant du programme compte pièce créé par Manon, j'ai ajouté une fonction similaire au programme. Le but est de ne pouvoir lancer la partie et si on appuie sur le bouton jouer uniquement si on a introduit à la machineune pièce. Cette fonctionalité n'est pas encore terminée. 
 
 
