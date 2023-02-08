@@ -40,10 +40,11 @@ comme ci-dessous:
 
 Ensuite, je suis allée à la découpeuse laser pour lancer l'execution, qui a d'ailleurs pris pas mal de temps. 
 
-voir cette vidéo : https://www.youtube.com/shorts/wfV_uO0uWmw
+Voir cette vidéo : https://www.youtube.com/shorts/wfV_uO0uWmw
 
 Et enfin j'ai du assembler la boite avec de la colle à bois, cette étape était un peu compliqué mais tout a tenu. Je n'ai pas encore fixé l'arrière car nous aurons toute l'installation à fixer à l'intérieur, comme les roues, le cablâge etc. 
-voir cette vidéo pour le résultat final : https://www.youtube.com/shorts/7pMelLjRkUU
+
+Voir cette vidéo pour le résultat final : https://www.youtube.com/shorts/7pMelLjRkUU
 
 
 
