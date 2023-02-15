@@ -47,5 +47,9 @@ Et enfin j'ai du assembler la boite avec de la colle à bois, cette étape étai
 Voir cette vidéo pour le résultat final : https://www.youtube.com/shorts/7pMelLjRkUU
 
 
+Séance 7 du 15 février 2023:
+
+https://www.youtube.com/shorts/v19ojyLgZ2k
+
 
 
