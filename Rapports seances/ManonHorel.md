@@ -50,7 +50,11 @@ Voir cette vidéo pour le résultat final : https://www.youtube.com/shorts/7pMel
 Séance 7 du 15 février 2023:
 
 Durant cette séance, j'ai commencé par créer le monnayeur à la découpeuse laser. Ensuite, j'ai découpé l'arrière qui servira de porte afin de pouvoir effectuer tout le cablâge, et mettre en place la machine à sous. 
-J'ai utilisé thingiverse afin de modéliser en 3D deux charnières pour la porte, j'ai du utiliser pour cela le modèle "reversable hinge with screw holes". Ces deux charnières ont été crée en 1h15. Pendant ce lapse de temps, j'ai collé à l'aide de la colle à bois le monnayeur. 
+J'ai utilisé thingiverse afin de modéliser en 3D deux charnières pour la porte, j'ai du utiliser pour cela le modèle "reversable hinge with screw holes". Ces deux charnières ont été crée en 1h15.
+
+![IMG_1575](https://user-images.githubusercontent.com/119940151/219092809-0b9d8079-4d91-45e6-8f7a-79fa23d10b0c.jpg)
+
+Pendant ce lapse de temps, j'ai collé à l'aide de la colle à bois le monnayeur. 
 
 Voir cette vidéo pour voir la fabrication des deux charnières:
 https://www.youtube.com/shorts/v19ojyLgZ2k
