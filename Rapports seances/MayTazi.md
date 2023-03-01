@@ -56,3 +56,16 @@ Séance 7 du 16 février 2023:
 
 Durant cette séance j'ai travaillé sur le programme qui permettra de faire fonctionner le jeu. Je me suis rendue compte que la fonction roue que j'avais créé ne pourrait pas être appelée 3 fois avec pour arguments à chaque fois un servo en argument différent. En effet, sinon, les roues se lancent une fois que l'autre est terminée. J'ai alors déclaré pour chaque roue les capteurs associées, celui de l'initialisation et celui des motifs. J'ai alors créée une boucle qui continue de tourner tant que toutes les roues ne sont pas arrêtées. Une fois toutes les roues arrêtées le programme renvoi l'information au joueur s'il a gagné ou pas, c'est à dire si le motif est le même pour les 3 roues ou pas. De plus, pour éviter que le programme ne fasse des calculs supplémentaires je ne lui fais compter que le tour d'initialisation. Avec toutes ces modifications, j'ai du rectifier pour que les roues se lancent uniquement lorsqu'on a pressé le bouton.
 Le version 2 du programme de jeu est: https://github.com/May-tazi/projet-/blob/main/programme_jeu_version2.ino .
+
+Séance 8 du 1 mars 2023:
+En amont de la séance, je me suis tournée vers une carte arduino mega 2560, pour pouvoir connecter tous nos capteurs et moteurs à la carte.
+Lors de cette dernière séance nous avons dû travailler en binôme, sur l'assemblage. 
+Les équerres étaient fixées sur un support en bois que l'on utilisait provisoirement pour pourvoir avancer sur le programme durant la création de la boîte.
+Avec Manon on a fixé les équerres à la boite de façon défininitive on a bien dû vérifier leur positionnment. 
+La disposition et l'écartement entre les équerres sont identiques à celles sur le support. 
+On a alors démonté les roues et tout réassemblé dans la boîte, on a accroché les roues sur les équerres. 
+Ensuite, on a discuté de la disposition de la carte arduino et de la plaque de montage. 
+Finalement on les a placées comme sur la photo ci-dessous: ![WhatsApp Image 2023-03-01 at 14 16 43](https://user-images.githubusercontent.com/119940151/222265288-0df48692-ac91-47dc-a899-b300a0303476.jpeg)
+Nous avons relié toutes les pattes des capteurs et des moteurs pour que ce soit en adéquation avec le programme.
+Pour l'instant nous avons encore quelques problèmes car nos fils ont de nombreux faux contacts.
+Nous avons fixé à la boîte notre construction qui permet de rendre des pièces lorsque en  cas de parties gagnantes, ainsi que le bouton pour lancer la partie. 
