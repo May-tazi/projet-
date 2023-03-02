@@ -65,6 +65,7 @@ Séance 8 du 01 mars 2023 et pendant les vacances :
 Durant ce temps là, j'ai assemblé les charnières sur la porte et crée une poignée à l'aide d'une chute de bois. Ensuite, avec May nous avons décidé d'assembler tous les éléments dans la boîte finale. Pour cela, nous devions d'abord défaire les roues de leur support d'origine afin de les fixer à la boîte, mais nous ne pouvions pas les visser à la boîte. On a donc du trouver une solution en prenant du scotch double face, et finalement les équerres sont bien fixées à la boîte. 
 Par la suite, nous avons rajouté les roues avec les servo moteurs en les fixant avec des serflex. On a placer la carte méga en utilisant aussi du scotch double face et de la même manière avec la plaquette de cablâge en décidant de garder une grande plaquette pour faciliter le cablâge. 
 Après, nous avons effectuer tous les branchements et mis du scotch afin de bien fixer les fils pour qu'ils n'interfèrent pas dans les roues lorsqu'elles tournent.
+Nous devons encore fixer la porte de la boîte, et faire en sorte d'éviter les faux contact qui font buguer le roulement etc. 
 
 ici, photo de l'intérieur de la boîte: 
 ![IMG_1929](https://user-images.githubusercontent.com/119940151/222397558-fda66446-617d-4a2f-b0f3-96928d81dfd6.jpg)
